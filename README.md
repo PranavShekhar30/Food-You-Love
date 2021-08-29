@@ -1,2 +1,2 @@
-# Medical-Insurance-Cost-Prediction
-Using Machine Learning with Python - Linear Regression Model
+# Food You Love
+A Frontend project built using HTML and CSS
